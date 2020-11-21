@@ -9,7 +9,7 @@ Hackers compile this lists of leaked usernames and passwords and try to log into
 So there are databases of all emails and passwords that have ever been leaked through history.
 
 # How can you run it?
-You should copy the main.py file into your local computer.
+You should copy the **main.py** file into your local computer.
 Open it with your Text Editor or IDE.
 The only thing you have to do know to find out if your password has been pawned or hacked is to write in your terminal: 
 
