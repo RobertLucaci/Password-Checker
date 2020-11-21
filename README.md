@@ -13,4 +13,4 @@ You should copy the main.py file into your local computer.
 Open it with your Text Editor or IDE.
 The only thing you have to do know to find out if your password has been pawned or hacked is to write in your terminal: 
 
-**python3 passwordchecker.py “your password”**
+**python3 main.py “your password”**
