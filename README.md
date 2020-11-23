@@ -11,6 +11,6 @@ So there are databases of all emails and passwords that have ever been leaked th
 # How can you run it?
 You should copy the **main.py** file into your local computer.
 Open it with your Text Editor or IDE and install all the necessary libraries.
-The only thing you have to do know to find out if your password has been pawned or hacked is to write in your terminal: 
+The only thing you have to do now to find out if your password has been pawned or hacked is to write in your terminal: 
 
 **python3 main.py “your password”**
